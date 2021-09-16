@@ -11,7 +11,7 @@ setuptools.setup(
     description='Truncated Normal distribution in PyTorch',
     python_requires='>=3.6',
     install_requires=[
-        'pytorch>=1.5.0',
+        'torch>=1.5.0',
     ],
     py_modules=['TruncatedNormal'],
     author='Anton Obukhov',
