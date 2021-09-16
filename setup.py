@@ -10,7 +10,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     description='Truncated Normal distribution in PyTorch',
     python_requires='>=3.6',
-    packages=setuptools.find_packages(),
+    packages='TruncatedNormal.py',
     author='Anton Obukhov',
     license='BSD',
     url='https://www.github.com/toshas/torch_truncnorm',
